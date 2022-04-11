@@ -1,6 +1,6 @@
 body{
     font-size: 15px;
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 98%);
     font-family: 'Poppins', sans-serif;
 }
 .attribution { font-size: 11px; text-align: center; }
@@ -9,6 +9,7 @@ body{
 .top{
     margin: auto;
     width: 50%;
+    margin-top: 50px;
 }
 
 .top h1{
@@ -46,6 +47,7 @@ p{
     background-color: #fff;
     border-radius: 5px;
     overflow: hidden;
+    box-shadow: 1px 7px 8px #aaa;
 }
 
 .box h2{
